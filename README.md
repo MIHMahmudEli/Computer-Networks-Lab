@@ -54,7 +54,7 @@ Advanced networking concepts including routing protocols and virtualization.
 ## 👤 Author
 **Mahmud Eli**  
 - [GitHub](https://github.com/MIHMahmudEli)
-- [LinkedIn](https://www.linkedin.com/in/mahmud-eli-91b614247/) *(Feel free to update this link)*
+- [LinkedIn](https://www.linkedin.com/in/m-i-h-mahmud-7b3b07249/)
 
 ---
 
